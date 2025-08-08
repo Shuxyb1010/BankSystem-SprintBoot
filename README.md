@@ -176,25 +176,6 @@ BankSystem/
 └── README.md
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you encounter any issues or have questions, please:
-
-1. Check the existing issues
-2. Create a new issue with detailed information
-3. Include error logs and steps to reproduce
 
 ## 🔮 Future Enhancements
 
@@ -206,6 +187,8 @@ If you encounter any issues or have questions, please:
 - [ ] Multi-currency support
 - [ ] Integration with external payment systems
 
+- [ ] Docker Image
+- [ ] Add NGINX
+- [ ] CI/CD Pipeline
+- [ ] Deploy on AWS EC2
 ---
-
-**Happy Banking! 🏦**
